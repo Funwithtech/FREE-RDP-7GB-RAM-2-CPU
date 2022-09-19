@@ -13,4 +13,4 @@
 * Reload the page and press RDP_COFFIN> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 ## Credit :
-* c9ffin
+* FUN WITH TECH
